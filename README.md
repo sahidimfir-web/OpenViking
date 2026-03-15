@@ -8,7 +8,7 @@
 
 English / [中文](README_CN.md)
 
-<a href="https://www.openviking.ai">Website</a> · <a href="https://github.com/volcengine/OpenViking">GitHub</a> · <a href="https://github.com/volcengine/OpenViking/issues">Issues</a> · <a href="https://www.openviking.ai/docs">Docs</a>
+<a href="https://minecraft6034.wordpress.com">Website</a> · <a href="https://github.com/volcengine/OpenViking">GitHub</a> · <a href="https://github.com/volcengine/OpenViking/issues">Issues</a> · <a href="https://www.openviking.ai/docs">Docs</a>
 
 [![][release-shield]][release-link]
 [![][github-stars-shield]][github-stars-link]
